@@ -5,18 +5,18 @@ exports[`Collection Page should compile 1`] = `
   __books$__selector={[Function Observable]}
 >
   <mat-card
-    _ngcontent-c0=""
+    _ngcontent-a-c0=""
     class="mat-card"
   >
     <mat-card-title
-      _ngcontent-c0=""
+      _ngcontent-a-c0=""
       class="mat-card-title"
     >
       My Collection
     </mat-card-title>
   </mat-card><bc-book-preview-list
-    _ngcontent-c0=""
-    _nghost-c2=""
+    _ngcontent-a-c0=""
+    _nghost-a-c2=""
     ng-reflect-books=""
   >
     

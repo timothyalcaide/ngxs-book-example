@@ -9,27 +9,27 @@ exports[`Find Book Page should compile 1`] = `
   store={[Function Store]}
 >
   <bc-book-search
-    _nghost-c0=""
+    _nghost-a-c0=""
     ng-reflect-error=""
     ng-reflect-query=""
     ng-reflect-searching="false"
   >
     <mat-card
-      _ngcontent-c0=""
+      _ngcontent-a-c0=""
       class="mat-card"
     >
       <mat-card-title
-        _ngcontent-c0=""
+        _ngcontent-a-c0=""
         class="mat-card-title"
       >
         Find a Book
       </mat-card-title>
       <mat-card-content
-        _ngcontent-c0=""
+        _ngcontent-a-c0=""
         class="mat-card-content"
       >
         <mat-form-field
-          _ngcontent-c0=""
+          _ngcontent-a-c0=""
           class="mat-form-field ng-tns-c3-0 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder _mat-animation-noopable"
         >
           <div
@@ -44,7 +44,7 @@ exports[`Find Book Page should compile 1`] = `
                 class="mat-form-field-infix"
               >
                 <input
-                  _ngcontent-c0=""
+                  _ngcontent-a-c0=""
                   aria-invalid="false"
                   aria-required="false"
                   class="mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored"
@@ -103,7 +103,7 @@ exports[`Find Book Page should compile 1`] = `
           </div>
         </mat-form-field>
         <mat-spinner
-          _ngcontent-c0=""
+          _ngcontent-a-c0=""
           class="mat-spinner mat-progress-spinner mat-primary mat-progress-spinner-indeterminate-animation _mat-animation-noopable"
           mode="indeterminate"
           ng-reflect-diameter="30"
@@ -124,21 +124,21 @@ exports[`Find Book Page should compile 1`] = `
               cx="50%"
               cy="50%"
               r="10"
-              style="stroke-dasharray: 62.83185307179586px; stroke-width: 10%;"
+              style="animation-name: mat-progress-spinner-stroke-rotate-30; stroke-dasharray: 62.83185307179586px; stroke-width: 10%;"
             />
             
           </svg>
         </mat-spinner>
       </mat-card-content>
       <mat-card-footer
-        _ngcontent-c0=""
+        _ngcontent-a-c0=""
         class="mat-card-footer"
       >
         
       </mat-card-footer>
     </mat-card>
   </bc-book-search><bc-book-preview-list
-    _nghost-c1=""
+    _nghost-a-c1=""
     ng-reflect-books=""
   >
     
